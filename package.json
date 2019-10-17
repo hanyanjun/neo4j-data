@@ -1,7 +1,7 @@
 {
   "name": "neo4j-data",
-  "version": "1.2.2",
-  "description": "基于neo4j,对于数据获取,库的配置化,获取到的数据的处理等;",
+  "version": "1.2.4",
+  "description": "Based on neo4j-driver , includes : gain data , library connect , library config, serialize data etc.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -24,7 +24,7 @@
   "keywords": [
     "neo4j",
     "data",
-    "gainData",
+    "neo4j-driver",
     "neo4j-data"
   ],
   "author": "hardy (hanyanjun)",
